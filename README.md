@@ -1,1 +1,1 @@
-https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FAbhishekvao78%2Fsc-english
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Abhishekvao78/sc-english/)
